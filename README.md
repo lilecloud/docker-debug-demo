@@ -1,6 +1,6 @@
 # docker-debug-demo
 
->> 这是一个使用dockerfile 打包springboot项目，并开放debug端口的demo,
+> 这是一个使用dockerfile 打包springboot项目，并开放debug端口的demo,
 - git clone git@github.com:lilecloud/docker-debug-demo.git
 
 - mvn package
